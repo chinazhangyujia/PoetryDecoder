@@ -1,2 +1,3 @@
 # PoetryDecoder
-Peotry decoder using Java
+Peotry decoder using Java.
+For beginner.
